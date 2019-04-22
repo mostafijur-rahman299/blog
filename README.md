@@ -1,2 +1,2 @@
-# First-Blog
+# pretty-Blog
 This is a simple blog..
