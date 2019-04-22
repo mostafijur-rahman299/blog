@@ -1,2 +1,2 @@
 # First-Blog
-this is new
+This is a simple blog..
